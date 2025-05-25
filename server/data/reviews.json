@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "1",
+    "bookId": "1",
+    "userId": "demo-user",
+    "rating": 5,
+    "title": "A Timeless Classic",
+    "content": "Fitzgerald's masterpiece captures the essence of the American Dream and its ultimate futility. The prose is beautiful and the characters are unforgettable.",
+    "helpful": 12,
+    "createdAt": "2025-05-25T12:31:37.696Z"
+  },
+  {
+    "_id": "2",
+    "bookId": "1",
+    "userId": "demo-user-2",
+    "rating": 4,
+    "title": "Great but Overrated",
+    "content": "While beautifully written, I found some parts slow. Still a must-read for understanding American literature.",
+    "helpful": 8,
+    "createdAt": "2025-05-25T12:31:37.696Z"
+  },
+  {
+    "_id": "3",
+    "bookId": "2",
+    "userId": "demo-user",
+    "rating": 5,
+    "title": "Powerful and Moving",
+    "content": "Harper Lee created something truly special. The way she tackles difficult themes through Scout's eyes is brilliant.",
+    "helpful": 15,
+    "createdAt": "2025-05-25T12:31:37.696Z"
+  },
+  {
+    "_id": "17481764172711a0g8extq",
+    "bookId": "2",
+    "userId": "1748176398806ni901dh8n",
+    "rating": 5,
+    "title": "Rooms",
+    "content": "good",
+    "helpful": 0,
+    "createdAt": "2025-05-25T12:33:37.271Z"
+  }
+]

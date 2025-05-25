@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "demo-user",
+    "username": "bookworm",
+    "email": "demo@example.com",
+    "password": "$2a$10$example",
+    "bio": "Avid reader and literature enthusiast",
+    "avatar": "",
+    "isAdmin": false,
+    "createdAt": "2025-05-25T12:31:37.696Z"
+  },
+  {
+    "_id": "1748176398806ni901dh8n",
+    "username": "Harshal",
+    "email": "harshal.shete92@gmail.com",
+    "password": "$2b$10$I3eXF3/Fp4q2TIC/Fk6ZQudA6WOkpnGJni9mZYjriPnL7Zb/vAC96",
+    "bio": "",
+    "avatar": "",
+    "isAdmin": false,
+    "createdAt": "2025-05-25T12:33:18.806Z"
+  }
+]
